@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="divider">#CCCCCC</color>
+    <color name="main_backgroud_color">#eeeeee</color>
+    <color name="list_notify_text">#ffffffff</color>
+    <color name="notify_view_divider">#66ffffff</color>
+    <color name="color_black">@android:color/black</color>
+    
+    <color name="text_color_white">@android:color/white</color>
+    <color name="backgroud_color">#2a84b9</color>
+    <color name="backgroud_color_press">#F3EEE0</color>
+    <color name="logo_background_color">#F3EEE0</color>
+    <color name="tv_button_default_verify">#f8921a</color>
+    <color name="login_textview_default_color">#2A84B9</color>
+    <color name="login_textview_press_color">#2A84B9</color>
+    <color name="tv_button_default_color">@android:color/white</color>
+    <color name="tv_default_color_blue">#4348f2</color>
+	<color name="tv_press_color_blue">#b9b9df</color>
+	<color name="tv_button_verify">#f9ce9b</color>
+    
+	<color name="list_item_select_color">#e5e1e1</color>
+	
+	<color name="item_sticky_header_backgroundcolor">#E2E2E2</color>
+	
+	<color name="red">#ff0100</color>
+
+</resources>
